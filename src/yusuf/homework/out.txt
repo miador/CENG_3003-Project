@@ -1,0 +1,6 @@
+ 89
+ 756
+ 25
+ 16
+ 6
+Elapsed time is: 37 milliseconds
